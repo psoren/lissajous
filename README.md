@@ -8,3 +8,6 @@ You can change the number of visualizations by changing the stopping point of th
 Here it is in action:
 
 ![alt text](https://github.com/psoren/lissajous/blob/master/lissajous.gif "Logo Title Text 1")
+
+
+It could be improved by adding each dot to the canvas once it is drawn instead of redrawing every dot each time.
